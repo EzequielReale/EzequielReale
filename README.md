@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/>, Soy Eze</h1>
+<h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/> Soy Eze</h1>
 <h3 align="center">Un estudiante de 4to año de "Licenciatura en Sistemas" en la UNLP</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezequielreale" alt="ezequielreale" /></a> </p>
