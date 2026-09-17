@@ -24,7 +24,7 @@
 <h3 align="left">👩‍💻  Sobre mí</h3>
 
 
-<p align="left">Un "casi recibido" de "Licenciatura en Sistemas" en la UNLP y hater N°1 del Pucho Castro
+<p align="left">Un "casi recibido" de "Licenciatura en Sistemas" en la UNLP y fan N°1 del Pucho Castro (perdón y gracias)
   <br><br>
   - 📝 Soy ayudante/perjudicante en las cátedras "Fundamentos de Organización de Datos" y "Diseño de Bases de Datos" de la UNLP<br>
   - 📚 Solía ser jefe de trábajos prácticos en "Bases de Datos 1 y 2" de la UCALP<br>
